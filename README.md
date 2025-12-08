@@ -1,6 +1,8 @@
 # Note-for-LangChain-and-LangGraph
+- LangChain & LangGraph v1 版本的案例实现
+- 本笔记参考了 [B站 强哥学编程](https://www.bilibili.com/video/BV1xi1uBUEie/) 进一步整理而来
+- 原仓库代码 [mylangchain1.0](https://github.com/yixiaoqiang-design/mylangchain1.0)
 
-LangChain & LangGraph v1 版本的案例实现
 
 ## 相关软件包
 ```Shell
