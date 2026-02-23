@@ -186,4 +186,8 @@ cython_debug/
 .idea/
 
 # DeepAgents's Data
-50.Deep Agents/DeepAgentsData/
+50.Deep Agents/DeepAgentsDir/
+90.Example/DeepAgentsDir/
+
+# 反向匹配
+!90.Example/DeepAgentsDir/skills
