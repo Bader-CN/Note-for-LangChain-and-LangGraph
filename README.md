@@ -9,6 +9,7 @@
 # LangChain
 pip install -U langchain
 pip install -U langchain-community
+pip install -U deepagents
 
 # 针对模型提供商
 pip install -U langchain-ollama

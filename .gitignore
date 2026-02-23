@@ -184,3 +184,6 @@ cython_debug/
 
 # PyCharm IDE
 .idea/
+
+# DeepAgents's Data
+50.Deep Agents/DeepAgentsData/
